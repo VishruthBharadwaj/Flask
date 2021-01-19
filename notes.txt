@@ -1,6 +1,6 @@
-# Use your Email ID and Password in Mail USERNAME and PASSWORD
+#  Use your Email ID and Password in Mail USERNAME and PASSWORD
 
-# My.py is just for testing
+#  My.py is just for testing
 
 
-# I have used test.html as message Body
+#  I have used test.html as message Body
